@@ -5,4 +5,4 @@ Depends on material-ui
 
     npm install --save material-ui-logos
 
-    import LogoName from 'material-ui-logos'
+    import LogoName from 'material-ui-logos/logos/logo-name'
