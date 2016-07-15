@@ -1,0 +1,19 @@
+{
+  "name": "material-ui-logos",
+  "version": "1.0.0",
+  "description": "Logos for use with material-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisrp/material-ui-logos.git"
+  },
+  "author": "Kris Pritchard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krisrp/material-ui-logos/issues"
+  },
+  "homepage": "https://github.com/krisrp/material-ui-logos#readme"
+}
