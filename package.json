@@ -1,5 +1,8 @@
 {
   "name": "material-ui-logos",
+  "peerDependencies": {
+      "material-ui": "^0.15.2"
+  },
   "version": "1.0.0",
   "description": "Logos for use with material-ui",
   "main": "index.js",
